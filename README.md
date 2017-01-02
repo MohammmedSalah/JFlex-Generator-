@@ -1,2 +1,3 @@
 # JFlex-Generator-
 JFlex Generator that generate Tokens reliance on Regex's ...
+use Jflex Program and java compiler to run this file .
